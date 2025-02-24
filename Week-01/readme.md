@@ -5,8 +5,7 @@
 <br />
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/id/4/44/Logo_PENS.png" alt="Logo PENS">
-  <br>
-  <br>
+  <h3 style="text-align: center;">Disusun Oleh : </h3>
   <p style="text-align: center;">
     <strong>Muhammad Daffa Erfiansyah (3123500006)</strong><br>
   </p>
