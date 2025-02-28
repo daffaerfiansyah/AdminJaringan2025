@@ -19,22 +19,16 @@
 ### 1. Check Ubuntu Version
 
 ### Perintah terminal
-<div>
 
 >lsb_release -a<br>
 <div align="center">
 
 Hasil
+
 ![Image](<Assets/IMG (18).png>)
 <p>
 Untuk mengecheck versi ubuntu yang sudah terinstall
 </p>
-
-</div>
-
-
-<div align="center">
-
 
 </div>
 
