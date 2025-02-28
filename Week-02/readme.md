@@ -20,10 +20,8 @@
 
 ### Perintah terminal
 <div>
-<p>
 
 >lsb_release -a<br>
-</p>
 <div align="center">
 
 Hasil
